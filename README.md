@@ -1,111 +1,82 @@
-# Hi 👋, I'm Sriharish S
+<div align="center">
 
-```typescript
-const profile = {
-  name: "Hi 👋, I'm Sriharish S",
-  bio: "A passionate full-stack developer from India",
-  currentWork: "Final year student from Velammal Institute of Technology.",
-  learning: "To design and develop full-stack projects that not only enhance my technical skills but also deliver meaningful, user-centric solutions that provide real value to end users.",
-  interests: "- Full-Stack Development (React,Java,Springboot)  
-- Building scalable and user-focused applications",
-  skills: [
-    "React",
-    "Tailwind",
-    "CSS3",
-    "HTML5",
-    "Spring",
-    "PostgreSQL",
-    "MongoDB",
-    "Docker",
-    "AWS",
-    "GitHub Actions",
-    "Java",
-    "JavaScript"
-  ],
-}
-```
+# 🌟 Welcome to Hi 👋, I'm Sriharish S's Profile 🌟
+
+<p><em>A passionate full-stack developer from India</em></p>
+
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+
+</div>
+
+<hr>
 
 ## 🔭 I'm currently working on
 
-Final year student from Velammal Institute of Technology.
+<div align="center"><p>Final year student from Velammal Institute of Technology.</p></div>
 
 ## 🌱 I'm currently learning
 
-To design and develop full-stack projects that not only enhance my technical skills but also deliver meaningful, user-centric solutions that provide real value to end users.
+<div align="center"><p>To design and develop full-stack projects that not only enhance my technical skills but also deliver meaningful, user-centric solutions that provide real value to end users.</p></div>
 
 ## 👀 I'm interested in
 
-- Full-Stack Development (React, Java, Springboot)  
-- Building scalable and user-focused applications 
-
-## 📊 GitHub Stats
-
-<!-- ⚠️ Important: Replace 'sriharish872004' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sriharish872004&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+<div align="center"><p>- Full-Stack Development (React, Java, Springboot)  
+- Building scalable and user-focused applications </p></div>
 
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'sriharish872004' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharish872004&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharish872004&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ## 💻 Tech Stack
 
-```json
-{
-  "frontend": [
-    "React",
-    "Tailwind",
-    "CSS3",
-    "HTML5"
-  ],
-  "backend": [
-    "Spring",
-    "PostgreSQL",
-    "MongoDB"
-  ],
-  "devops": [
-    "Docker",
-    "AWS",
-    "GitHub Actions"
-  ],
-  "languages": [
-    "Java",
-    "JavaScript"
-  ]
-}
-```
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4">
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/-Spring-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&color=4169e1">
+
+### 🚀 DevOps
+
+<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-GitHub Actions-05122A?style=for-the-badge&color=9370db">
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500">
+
+</div>
 
 ## 🌐 Socials
 
-```javascript
-const socials = {
-  github: "sriharish872004",
-  linkedin: "sriharish-s-96a065288",
-  website: "https://sriharishsportfolio.netlify.app/",
-  leetcode: "https://leetcode.com/u/SRIHARISH_S/",
-}
-```
+<div align="center">
 
-<div>
-<a href="https://leetcode.com/u/SRIHARISH_S/"><img src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a> <a href="https://sriharishsportfolio.netlify.app/"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://github.com/sriharish872004"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="www.linkedin.com/in/sriharish-s-96a065288"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://github.com/sriharish872004"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="www.linkedin.com/in/sriharish-s-96a065288"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
+
 </div>
 
 ## 📫 How to reach me
 
-```javascript
-const contact = {
-  email: "sriharishs872004@gmail.com",
-  phone: "+917358345735",
-}
-```
+<div align="center">
 
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
+**Email:** sriharishs872004@gmail.com
+**Phone:** +917358345735
 
-process.exit(0); // Until next time 👋
-```
+</div>
+
+<div align="center">
+
+<!-- ⚠️ Important: Replace 'sriharish872004' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=sriharish872004&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/sriharish872004?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
+</div>
