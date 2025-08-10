@@ -1,15 +1,12 @@
 <div align="center">
 
-# 🌟 Welcome to Hi 👋, I'm Sriharish S's Profile 🌟
+# ✨ Hi 👋, I'm Sriharish S ✨
 
 <p><em>A passionate full-stack developer from India develop full-stack projects that not only enhance my technical skills but also deliver meaningful, user-centric solutions that provide real value to end users.</em></p>
 
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+<hr>
 
 </div>
-
-<hr>
 
 ## 🔭 I'm currently working on
 
@@ -29,28 +26,28 @@ Combining modern front-end design with powerful back-end systems.</p></div>
 
 <!-- ⚠️ Important: Replace 'sriharish872004' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharish872004&layout=compact&langs_count=10&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharish872004&layout=compact&langs_count=10&theme=buefy"/>
 </div>
 
 ## 💻 Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend
+**🎨 Frontend**
 
-<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4">
+`React` • `Tailwind` • `HTML5` • `CSS3`
 
-### ⚙️ Backend
+**⚙️ Backend**
 
-<img src="https://img.shields.io/badge/-Spring-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&color=4169e1">
+`Springboot` • `PostgreSQL` • `MongoDB`
 
-### 🚀 DevOps
+**🚀 DevOps**
 
-<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-GitHub Actions-05122A?style=for-the-badge&color=9370db">
+`Docker` • `AWS` • `GitHub Actions`
 
-### 💬 Languages
+**💬 Languages**
 
-<img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500">
+`Java` • `JavaScript`
 
 </div>
 
@@ -58,7 +55,7 @@ Combining modern front-end design with powerful back-end systems.</p></div>
 
 <div align="center">
 
-<a href="https://github.com/sriharish872004"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="www.linkedin.com/in/sriharish-s-96a065288"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
+<a href="https://github.com/sriharish872004"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="www.linkedin.com/in/sriharish-s-96a065288"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 </div>
 
@@ -73,11 +70,6 @@ Combining modern front-end design with powerful back-end systems.</p></div>
 
 <div align="center">
 
-<!-- ⚠️ Important: Replace 'sriharish872004' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=sriharish872004&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-
-<img src="https://img.shields.io/github/followers/sriharish872004?style=for-the-badge&color=ff69b4" alt="Followers"/>
-
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
 
 </div>
